@@ -8,8 +8,8 @@ public class Task1 {
         b = a - b;
         a = a - b;
 
-        System.out.println(a = a);
-        System.out.println(b = b);
+        System.out.println(a);
+        System.out.println(b);
 
     }
 }

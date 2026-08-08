@@ -12,7 +12,7 @@ public class Task2 {
         System.out.println("Введіть третє значення");
         int c = scanner.nextInt();
         if (a > 0 && b > 0 && c > 0 &&
-            (a + b > c) && (a + c > b) && (b + c > a) ) {
+                (a + b > c) && (a + c > b) && (b + c > a)) {
             System.out.println("З цих сторін пожна побудувати трикудник");
         }
     }

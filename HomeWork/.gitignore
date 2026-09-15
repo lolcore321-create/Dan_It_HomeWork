@@ -1,2 +1,9 @@
+build
+out
+reports
 .idea
 out
+*.iml
+/build
+/out
+/target

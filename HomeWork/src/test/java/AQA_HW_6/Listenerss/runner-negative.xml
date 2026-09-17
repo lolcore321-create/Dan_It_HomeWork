@@ -1,0 +1,17 @@
+<suite name="NegativeSuite">
+    <listeners>
+        <listener class-name="AQA_HW_6.Listenerss.TestListener"/>
+    </listeners>
+    <test name="NegativeTests">
+        <groups>
+            <run>
+                <include name="negative"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="AQA_HW_6.SearchTest"/>
+            <class name="AQA_HW_6.UsersTests"/>
+            <class name="AQA_HW_6.CatalogTest"/>
+        </classes>
+    </test>
+</suite>

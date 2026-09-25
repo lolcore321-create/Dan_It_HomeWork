@@ -1,0 +1,10 @@
+<suite name="Default Suite">
+    <test name="All Tests">
+        <classes>
+            <class name="AQA_HW_9.SearchVerification"/>
+            <class name="AQA_HW_9.ProductVerify"/>
+            <class name="AQA_HW_9.InformationVerify"/>
+            <class name="AQA_HW_9.VolunteerVerify"/>
+        </classes>
+    </test>
+</suite>

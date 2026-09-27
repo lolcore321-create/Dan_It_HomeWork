@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Steam Store - Core Functionality" parallel="methods" thread-count="2">
+    <test name="HomeWork Tests">
+        <classes>
+            <class name="AQA_HW_10.TestingSearchAndCart"/>
+            <class name="AQA_HW_10.DiscussionSearch"/>
+        </classes>
+    </test>
+</suite>
